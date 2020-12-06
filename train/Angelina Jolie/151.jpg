@@ -1,0 +1,767 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Angelina Jolie Wallpaper | 1600x1200 | ID:945</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="title" content="Angelina Jolie Wallpaper | 1600x1200 | ID:945" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="Angelina Jolie wallpaper,  Angelina Jolie wallpaper 1600x1200, Angelina Jolie background, Angelina Jolie desktop background, Angelina Jolie image, 1600x1200"/><meta name="description" content="Angelina Jolie wallpaper 1600px width, 1200px height, 177 kB, for your PC desktop background and mobile phone (iPad, iPhone, Adroid). Image id:945"/>
+
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+ 
+
+function getBanner(keyword, div_id, b_width, b_height){
+	
+		
+		
+		$.post("adblock/adblockGetBanner.php",
+		{
+					
+			keyword:keyword,
+			div_id:div_id,
+			b_width:b_width,
+			b_height:b_height,
+					
+		},
+		function(data,status){
+					
+			
+			$("#"+div_id).html(data);
+			
+		});
+	
+	
+}
+
+   
+$(function() {     
+	
+	
+	
+		
+	var h = $("#topb").height();
+	
+	
+	
+	if(h ==0){
+		
+		
+		
+		
+		var keyword='';
+		var div_id ='topb';
+		var b_width=728;
+		var b_height=90;
+		
+		getBanner(keyword, div_id, b_width, b_height);
+		
+	}
+		
+		
+		
+});
+
+
+
+</script> 
+
+
+<link href="fonts.css" rel="stylesheet" type="text/css">
+<script async src="ajax.js"></script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11016396-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<style>
+
+	
+	.responsive1{
+			margin-left:0px;
+			margin-right:0px;
+			
+			
+			}
+	
+	.responsiveImg{
+		
+		max-width:100%; 
+		width:auto;
+		
+	}
+	#responsiveCat2{
+		/*visibility:hidden;*/
+		display:none;
+		width:0px; height:0px;
+	
+	}
+	.responsiveAdPicture{
+		
+		max-width:728px; 
+		max-height:90px;
+		
+	}
+	.responsiveAdPicture2{
+		
+		max-width:728px; 
+		max-height:90px;
+		
+	}
+	.responsiveAdPicture3{
+		
+		max-width:728px; 
+		height:auto;
+		
+	}
+	.responsiveAdCategory{
+		
+		/*max-width:970px; 
+		max-height:250px;*/
+		display:none;
+		
+	}
+	.responsiveWallpaperInfoBox{
+		
+		max-width:728px; 
+		height:auto;
+		
+	}
+	#download_ad{
+		/*display:none;*/
+		position: relative;
+	
+	}
+	
+	@media screen and (min-device-width: 1200px) {
+		
+		.responsive1{
+			/*margin-left:10%;
+			margin-right:10%;*/
+			width:1200px; margin-left:auto; margin-right:auto;
+			
+	}
+	
+	
+	.responsiveImg{
+		width:728px;
+		height:auto;
+		float:left;
+	
+		
+	}
+	.responsiveImg2{
+		width:100%;
+		height:auto;
+		/*float:left;*/
+	
+		
+	}
+	#responsiveCat{
+		/*visibility:visible;*/
+		display:block;
+		
+		width:170px; 
+		height:800px; 
+		margin-right:10px; margin-top:5px; padding:10px;
+		float:left; border: 1px solid #000; background-color:#1E1E1E;
+		
+		
+		
+	}
+	#responsiveCat2{
+	/*visibility:visible;*/
+	display: block;
+	width: 300px;
+	
+	height: auto;
+	margin-right: 160px;
+	text-align:left;
+	
+	margin-top: 0px;
+	
+	float: right;
+	/*padding: 10px;*/
+	/*border: 1px solid #EEEEEE;*/
+		
+		
+		
+	}
+	.responsiveAdPicture{
+		
+		max-width:970px; 
+		max-height:250px;
+		
+	}
+	.responsiveAdPicture2{
+		
+		width:728px; 
+		height:90px;
+		
+	}
+	.responsiveAdPicture3{
+		
+		width:728px; 
+		height:auto;
+		
+	}
+	.responsiveAdCategory{
+		
+		display:block;
+		width:970px; 
+		height:250px;
+		/*background-color:#000;*/
+		
+	}
+	.responsiveWallpaperInfoBox{
+		
+		width:728px; 
+		height:auto;
+		
+	}
+	#download_ad{
+		position: fixed;
+		width:800px; height:600;
+		top: 50%; left: 50%; transform: translate(-50%, -50%);
+	}
+	
+		
+	}
+	
+
+</style>
+<meta name="earnify-site-verification" content="313dfab7f480cc9e004d8d14e6d0285553f736f8" />
+
+</head>
+
+<body>
+
+<div style="width:100%; background-color:#303030; border-bottom-width:1px; border-bottom-color:#000; border-bottom-style:solid; padding-top:10px; padding-bottom:10px;">
+	
+  
+
+	<div style="height:80px" class="responsive1">
+        
+                <a href="http://www.wallpapervortex.com"><img src="logo.png" width="360"  style="float:left; margin-right:20px"  border="0"  ></a><br style="clear:both"/>
+                
+               
+        
+        <div style="margin-top:5px;">
+            <nav>
+            <a href="http://www.wallpapervortex.com" class="fontTitles">Home</a>&nbsp;&nbsp;&nbsp;<a href="http://www.wallpapervortex.com/view-all.html" class="fontTitles">Categories</a>&nbsp;&nbsp;&nbsp;<a href="http://www.wallpapervortex.com/tags.html" class="fontTitles">Tags</a>&nbsp;&nbsp;&nbsp;<a href="http://www.wallpapervortex.com/search-by-resolution.html" class="fontTitles">By Resolution</a>&nbsp;&nbsp;&nbsp;<a href="http://www.wallpapervortex.com/random-wallpapers.html" class="fontTitles">Random</a>&nbsp;&nbsp;&nbsp;<a href="http://www.wallpapervortex.com/index.php?page=search" class="fontTitles">Search</a>
+            
+            
+            </nav>
+        </div>
+          <div class="addthis_toolbox addthis_default_style" style="float:left; margin-top:5px">
+            <a class="addthis_button_preferred_1"></a>
+            <a class="addthis_button_preferred_2"></a>
+            <a class="addthis_button_preferred_3"></a>
+            <a class="addthis_button_preferred_4"></a>
+            <a class="addthis_button_compact"></a>
+            <a class="addthis_counter addthis_bubble_style"></a>
+            </div>
+	</div>
+    
+<div style="clear:both;"></div>
+
+</div>
+
+
+
+
+
+<div id="content_container" class="responsive1">
+
+
+
+    
+ 
+
+
+
+<div style=" margin-top:2px; margin-bottom:10px;"><a href = "http://www.wallpapervortex.com" class="fontNavigation">Home</a> <span class="fontNavigation">/</span> <a href = "http://www.wallpapervortex.com/celebrity.html" class="fontNavigation" title="Celebrity Wallpapers">Celebrity</a> <span class="fontNavigation">/</span> <a href = "http://www.wallpapervortex.com/celebrity-angelina_jolie-wallpapers.html" class="fontNavigation" title="Angelina Jolie Wallpapers">Angelina Jolie Wallpapers </a> <span class="fontNavigation">/</span> <span class="fontNavigation">Angelina Jolie</span>
+				</div>
+                
+
+
+
+
+    
+    <div id="contentad349681"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "209e49ea-b8b4-4052-93be-e52eeab972fe",
+            d:  "d2FsbHBhcGVydm9ydGV4LmNvbQ==",
+            wid: "349681",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad349681").appendChild(s);
+    })(document);
+</script>
+                    
+    
+    	
+        
+   
+    <div style="margin-top:5px; "><h1 title="Angelina Jolie Wallpaper">Angelina Jolie  Wallpaper 1600x1200</h1></div>                
+    
+    
+        
+<style>
+           
+.mypagination {
+border: 2px solid #444444;
+padding: 6px 20px;
+background: #fff;
+border-radius: 6px;
+font-family: 'Open Sans Condensed',sans-serif;
+text-decoration:none;
+color:#444444;
+font-size:20px;
+}
+.mypagination:hover{
+text-decoration:underline;
+}
+#pop {
+background-color: #ccc;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+padding: 5px 5px;
+border-radius:6px;
+color:#444444;
+background: #fff;
+font-family: 'Open Sans Condensed',sans-serif;
+font-size: 20px;
+text-decoration: none;
+cursor: poiner;
+border: 2px solid #444444;
+}
+
+.responsiveImg{
+max-width:100%; 
+width:auto;
+}
+.responsiveBox{
+	 
+margin-top:10px; 
+margin-bottom:20px; 
+max-width:100%;
+	
+}
+.bannerBox{
+	
+
+margin-left:10px;
+	
+	
+}
+.adslot_1 { display:none; }
+@media screen and (min-device-width: 1200px) {
+	
+	.responsiveImg{
+		width:1040px;
+		height:auto;
+		float:left;
+	}
+	.responsiveBox{
+		float:left; 
+		margin-top:10px; 
+		margin-bottom:20px; 
+		
+		width:700px;
+	}
+	
+	.adslot_1 { display:inline-block; width: 300px; height: 250px; }
+	
+	.bannerBox{
+		
+		width:250px; 
+		float:right; 
+		margin-top:10px;
+		margin-right:210px;
+	
+	}
+	
+}
+</style>  
+
+     
+<a href="http://www.imgbase.info/images/safe-wallpapers/celebrity/angelina_jolie/945-celebrity_angelina_jolie_wallpaper.jpg"><img src="http://www.imgbase.info/images/safe-wallpapers/celebrity/angelina_jolie/945-celebrity_angelina_jolie_wallpaper.jpg"   border="0" alt="Angelina Jolie wallpaper" title="Angelina Jolie wallpaper" class="responsiveImg"></a>
+
+
+
+
+
+
+<div class="responsiveBox">
+
+ <form action="downloadwallpaper.php" method="post">
+  <table width="100%" border="0" cellspacing="0" cellpadding="1">
+  <tr>
+    <td width="32%">
+        <a class="mypagination" href="http://www.wallpapervortex.com/wallpaper-929-celebrity_angelina_jolie_wallpaper.html">« Prev</a>
+    
+        </td>
+    <td width="35%" align="center"><input type="submit" name="submit" value="Download" id="pop" />
+<input type="hidden" name="file" value="945-celebrity_angelina_jolie_wallpaper">
+<input type="hidden" name="cat" value="celebrity">
+<input type="hidden" name="subcat" value="angelina_jolie"></td>
+    <td width="33%" align="right">
+        
+    <a class="mypagination" href="http://www.wallpapervortex.com/wallpaper-951-celebrity_angelina_jolie_wallpaper.html" >Next »</a>
+        </td>
+  </tr>
+</table>
+
+</form>    
+    
+  
+<div id="contentad361863"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "bd2a5f54-22f6-4e46-a3e2-ba10fbcdea07",
+            d:  "d2FsbHBhcGVydm9ydGV4LmNvbQ==",
+            wid: "361863",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad361863").appendChild(s);
+    })(document);
+</script>       
+
+ <h2>
+    Angelina Jolie PC desktop background.    </h2>   
+	    
+    <span class="fontPictureDesc fontBold">How to setup:</span><span class="fontPictureDesc"> 1: Click the download button above &amp; save. 2: Locate the image file on your computer. 3: Right click and set as desktop background.</span>
+    <br/>
+    <span class="fontPictureDesc fontBold">Resolution:</span><span class="fontPictureDesc">1600 x 1200</span>
+    
+    <span class="fontPictureDesc fontBold">Size:</span><span class="fontPictureDesc">177 kB</span>
+    
+   
+    <span class="fontPictureDesc fontBold">Views:</span><span class="fontPictureDesc">9602</span>
+    
+    <span class="fontPictureDesc fontBold">Date:</span><span class="fontPictureDesc">2009-10-02 17:07:00</span>
+    <span class="fontPictureDesc fontBold">Uploaded By:</span>
+    
+        <a href="http://www.wallpapervortex.com/user-admin.html" class="fontBlue2 fontBold"><u>admin</u></a>
+        <br/>
+   
+  <a href = "http://www.wallpapervortex.com/index.php?page=resize&amp;picture=945-celebrity_angelina_jolie_wallpaper" class="fontBlue2 fontBold" rel="nofollow">Resize Wallpaper</a>
+              <a href="http://www.wallpapervortex.com/ipad-air-wallpaper-945-celebrity_angelina_jolie_wallpaper.html" class="fontBlue2 fontBold">iPad Air, 3, 4</a>
+            <a href="http://www.wallpapervortex.com/iphone-wallpaper-945-celebrity_angelina_jolie_wallpaper.html" title="Angelina Jolie iPhone Wallpaper" class="fontBlue2 fontBold">iPhone</a>
+     <a href="http://www.wallpapervortex.com/iphone-5-wallpaper-945-celebrity_angelina_jolie_wallpaper.html" title="Angelina Jolie iPhone 5 Wallpaper" class="fontBlue2 fontBold">iPhone 5</a>
+        <a href="http://www.wallpapervortex.com/iphone-6-wallpaper-945-celebrity_angelina_jolie_wallpaper.html" title="Angelina Jolie iPhone 6 Wallpaper" class="fontBlue2 fontBold">iPhone 6</a>
+       <a href="http://www.wallpapervortex.com/samsung-s4-wallpaper-945-celebrity_angelina_jolie_wallpaper.html" title="Angelina Jolie Samsung S4 Wallpaper" class="fontBlue2 fontBold">Samsung S4</a>
+      <a href="http://www.wallpapervortex.com/samsung-s5-wallpaper-945-celebrity_angelina_jolie_wallpaper.html" title="Angelina Jolie Samsung S5 Wallpaper" class="fontBlue2 fontBold">Samsung S5</a>
+      <a href="http://www.wallpapervortex.com/samsung-s6-wallpaper-945-celebrity_angelina_jolie_wallpaper.html" title="Angelina Jolie Samsung S6 Wallpaper" class="fontBlue2 fontBold">Samsung S6</a>
+
+
+ 
+  <br/>
+  
+                    
+
+
+
+
+</div>
+
+<div class="bannerBox">
+	<div class="fontSmall" style="text-align:center;">Advertisement</div>
+	<div id="contentad34808"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "2ccb0138-81c7-4c90-96ed-85d49e3be4bb",
+            d:  "d2FsbHBhcGVydm9ydGV4LmNvbQ==",
+            wid: "34808",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad34808").appendChild(s);
+    })(document);
+</script>
+                    
+
+</div>
+
+
+<div class="responsiveBox">
+  
+      <span class="fontComments fontBold" style="font-size:20px">Comments:</span><br/>
+      
+      
+      
+       
+   <span class="fontComments">No comments yet. Be the first to comment on this image!</span>    
+   <br style="clear:both"><br style="clear:both">
+    <span class="fontComments fontBold" style="font-size:16px; ">Add your comment:</span>
+        <form id="form2" name="form2" method="post" action="">
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="92%"><textarea name="textareath" id="textarea"  style="width:100%; height:30px;  background-color:#F8F8F8"></textarea></td>
+            <td width="8%"><input type="submit" name="post_think" id="button" value="Submit" style="font-size:12px;  border:#333333; height:30px; border-style:solid; border-width:1px; background-color:#CCC;"/></td>
+          </tr>
+        </table>
+      </form> 
+
+
+
+   </div>                     
+             
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="clear:both">
+
+
+
+
+ 
+			<div style="clear:both; height:20px;"></div>
+			<span class="fontTitles fontOrange">Related wallpapers:</span> <br/><div class="newWallpaper1"><table width="100%" height=100% border="0" cellspacing="0" cellpadding="0" >
+		
+			<tr>
+      		<td align ="center"><a href = "http://www.wallpapervortex.com/wallpaper-1012-celebrity_angelina_jolie_wallpaper.html"><img src="http://www.imgbase.info/images/safe-wallpapers/celebrity/angelina_jolie/aa_1012-celebrity_angelina_jolie_wallpaper.jpg" border = "0" title="Angelina Jolie wallpaper"/></a></td>
+   			 </tr>
+				<tr>
+      		<td><div align="left" ><a href = "http://www.wallpapervortex.com/wallpaper-1012-celebrity_angelina_jolie_wallpaper.html" title = "Angelina Jolie wallpaper 1600x1200 details" class="fontPicTitle">Angelina Jolie</a> <br/> <span class="fontPictureDesc">Res: 1600x1200 / Size:126kb</span><br/>
+			<span class="fontPictureDesc">Views: 3707</span>
+			<br/><span class="fontPictureDesc">More</span> <a href="http://www.wallpapervortex.com/celebrity-angelina_jolie-wallpapers.html"  title="Angelina Jolie wallpapers" class="fontPictureDesc">Angelina Jolie wallpapers</a></div></td>
+    		</tr>
+  		</table>
+	
+	
+	</div>
+	<div class="newWallpaper1"><table width="100%" height=100% border="0" cellspacing="0" cellpadding="0" >
+		
+			<tr>
+      		<td align ="center"><a href = "http://www.wallpapervortex.com/wallpaper-1033-celebrity_angelina_jolie_wallpaper.html"><img src="http://www.imgbase.info/images/safe-wallpapers/celebrity/angelina_jolie/aa_1033-celebrity_angelina_jolie_wallpaper.jpg" border = "0" title="Angelina Jolie wallpaper"/></a></td>
+   			 </tr>
+				<tr>
+      		<td><div align="left" ><a href = "http://www.wallpapervortex.com/wallpaper-1033-celebrity_angelina_jolie_wallpaper.html" title = "Angelina Jolie wallpaper 1600x1200 details" class="fontPicTitle">Angelina Jolie</a> <br/> <span class="fontPictureDesc">Res: 1600x1200 / Size:234kb</span><br/>
+			<span class="fontPictureDesc">Views: 7807</span>
+			<br/><span class="fontPictureDesc">More</span> <a href="http://www.wallpapervortex.com/celebrity-angelina_jolie-wallpapers.html"  title="Angelina Jolie wallpapers" class="fontPictureDesc">Angelina Jolie wallpapers</a></div></td>
+    		</tr>
+  		</table>
+	
+	
+	</div>
+	<div class="newWallpaper1"><table width="100%" height=100% border="0" cellspacing="0" cellpadding="0" >
+		
+			<tr>
+      		<td align ="center"><a href = "http://www.wallpapervortex.com/wallpaper-3520-celebrity_angelina_jolie_wallpaper.html"><img src="http://www.imgbase.info/images/safe-wallpapers/celebrity/angelina_jolie/aa_3520-celebrity_angelina_jolie_wallpaper.jpg" border = "0" title="Angelina Jolie wallpaper"/></a></td>
+   			 </tr>
+				<tr>
+      		<td><div align="left" ><a href = "http://www.wallpapervortex.com/wallpaper-3520-celebrity_angelina_jolie_wallpaper.html" title = "Angelina Jolie wallpaper 1440x900 details" class="fontPicTitle">Angelina Jolie</a> <br/> <span class="fontPictureDesc">Res: 1440x900 / Size:102kb</span><br/>
+			<span class="fontPictureDesc">Views: 3923</span>
+			<br/><span class="fontPictureDesc">More</span> <a href="http://www.wallpapervortex.com/celebrity-angelina_jolie-wallpapers.html"  title="Angelina Jolie wallpapers" class="fontPictureDesc">Angelina Jolie wallpapers</a></div></td>
+    		</tr>
+  		</table>
+	
+	
+	</div>
+	<div class="newWallpaper1"><table width="100%" height=100% border="0" cellspacing="0" cellpadding="0" >
+		
+			<tr>
+      		<td align ="center"><a href = "http://www.wallpapervortex.com/wallpaper-3498-celebrity_anjelina_jolie_wallpaper.html"><img src="http://www.imgbase.info/images/safe-wallpapers/celebrity/angelina_jolie/aa_3498-celebrity_anjelina_jolie_wallpaper.jpg" border = "0" title="Anjelina Jolie wallpaper"/></a></td>
+   			 </tr>
+				<tr>
+      		<td><div align="left" ><a href = "http://www.wallpapervortex.com/wallpaper-3498-celebrity_anjelina_jolie_wallpaper.html" title = "Anjelina Jolie wallpaper 1440x900 details" class="fontPicTitle">Anjelina Jolie</a> <br/> <span class="fontPictureDesc">Res: 1440x900 / Size:186kb</span><br/>
+			<span class="fontPictureDesc">Views: 8443</span>
+			<br/><span class="fontPictureDesc">More</span> <a href="http://www.wallpapervortex.com/celebrity-angelina_jolie-wallpapers.html"  title="Angelina Jolie wallpapers" class="fontPictureDesc">Angelina Jolie wallpapers</a></div></td>
+    		</tr>
+  		</table>
+	
+	
+	</div>
+	<div class="newWallpaper1"><table width="100%" height=100% border="0" cellspacing="0" cellpadding="0" >
+		
+			<tr>
+      		<td align ="center"><a href = "http://www.wallpapervortex.com/wallpaper-945-celebrity_angelina_jolie_wallpaper.html"><img src="http://www.imgbase.info/images/safe-wallpapers/celebrity/angelina_jolie/aa_945-celebrity_angelina_jolie_wallpaper.jpg" border = "0" title="Angelina Jolie wallpaper"/></a></td>
+   			 </tr>
+				<tr>
+      		<td><div align="left" ><a href = "http://www.wallpapervortex.com/wallpaper-945-celebrity_angelina_jolie_wallpaper.html" title = "Angelina Jolie wallpaper 1600x1200 details" class="fontPicTitle">Angelina Jolie</a> <br/> <span class="fontPictureDesc">Res: 1600x1200 / Size:177kb</span><br/>
+			<span class="fontPictureDesc">Views: 9603</span>
+			<br/><span class="fontPictureDesc">More</span> <a href="http://www.wallpapervortex.com/celebrity-angelina_jolie-wallpapers.html"  title="Angelina Jolie wallpapers" class="fontPictureDesc">Angelina Jolie wallpapers</a></div></td>
+    		</tr>
+  		</table>
+	
+	
+	</div>
+	<div class="newWallpaper1"><table width="100%" height=100% border="0" cellspacing="0" cellpadding="0" >
+		
+			<tr>
+      		<td align ="center"><a href = "http://www.wallpapervortex.com/wallpaper-951-celebrity_angelina_jolie_wallpaper.html"><img src="http://www.imgbase.info/images/safe-wallpapers/celebrity/angelina_jolie/aa_951-celebrity_angelina_jolie_wallpaper.jpg" border = "0" title="Angelina Jolie wallpaper"/></a></td>
+   			 </tr>
+				<tr>
+      		<td><div align="left" ><a href = "http://www.wallpapervortex.com/wallpaper-951-celebrity_angelina_jolie_wallpaper.html" title = "Angelina Jolie wallpaper 1600x1200 details" class="fontPicTitle">Angelina Jolie</a> <br/> <span class="fontPictureDesc">Res: 1600x1200 / Size:129kb</span><br/>
+			<span class="fontPictureDesc">Views: 3464</span>
+			<br/><span class="fontPictureDesc">More</span> <a href="http://www.wallpapervortex.com/celebrity-angelina_jolie-wallpapers.html"  title="Angelina Jolie wallpapers" class="fontPictureDesc">Angelina Jolie wallpapers</a></div></td>
+    		</tr>
+  		</table>
+	
+	
+	</div>
+	<div class="newWallpaper1"><table width="100%" height=100% border="0" cellspacing="0" cellpadding="0" >
+		
+			<tr>
+      		<td align ="center"><a href = "http://www.wallpapervortex.com/wallpaper-3518-celebrity_a_jolie_wallpaper.html"><img src="http://www.imgbase.info/images/safe-wallpapers/celebrity/angelina_jolie/aa_3518-celebrity_a_jolie_wallpaper.jpg" border = "0" title="A Jolie wallpaper"/></a></td>
+   			 </tr>
+				<tr>
+      		<td><div align="left" ><a href = "http://www.wallpapervortex.com/wallpaper-3518-celebrity_a_jolie_wallpaper.html" title = "A Jolie wallpaper 1440x900 details" class="fontPicTitle">A Jolie</a> <br/> <span class="fontPictureDesc">Res: 1440x900 / Size:137kb</span><br/>
+			<span class="fontPictureDesc">Views: 3737</span>
+			<br/><span class="fontPictureDesc">More</span> <a href="http://www.wallpapervortex.com/celebrity-angelina_jolie-wallpapers.html"  title="Angelina Jolie wallpapers" class="fontPictureDesc">Angelina Jolie wallpapers</a></div></td>
+    		</tr>
+  		</table>
+	
+	
+	</div>
+	<div class="newWallpaper1"><table width="100%" height=100% border="0" cellspacing="0" cellpadding="0" >
+		
+			<tr>
+      		<td align ="center"><a href = "http://www.wallpapervortex.com/wallpaper-1108-celebrity_angelina_jolie_wallpaper.html"><img src="http://www.imgbase.info/images/safe-wallpapers/celebrity/angelina_jolie/aa_1108-celebrity_angelina_jolie_wallpaper.jpg" border = "0" title="Angelina Jolie wallpaper"/></a></td>
+   			 </tr>
+				<tr>
+      		<td><div align="left" ><a href = "http://www.wallpapervortex.com/wallpaper-1108-celebrity_angelina_jolie_wallpaper.html" title = "Angelina Jolie wallpaper 1600x1200 details" class="fontPicTitle">Angelina Jolie</a> <br/> <span class="fontPictureDesc">Res: 1600x1200 / Size:252kb</span><br/>
+			<span class="fontPictureDesc">Views: 88997</span>
+			<br/><span class="fontPictureDesc">More</span> <a href="http://www.wallpapervortex.com/celebrity-angelina_jolie-wallpapers.html"  title="Angelina Jolie wallpapers" class="fontPictureDesc">Angelina Jolie wallpapers</a></div></td>
+    		</tr>
+  		</table>
+	
+	
+	</div>
+	
+
+
+
+
+
+
+
+<br style="clear:both">
+
+<div style="max-width:976px; margin-top:10px; margin-bottom:10px;">
+
+                    
+           
+</div>
+
+
+
+
+
+
+  <p align="center"><a href="http://www.wallpapervortex.com/login.html" class="fontNavigation">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.wallpapervortex.com/register.html" class="fontNavigation">Submit Wallpapers</a>&nbsp;&nbsp;&nbsp;&nbsp;<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.wallpapervortex.com/contact.html" class="fontNavigation">Contact</a></p>
+
+
+
+
+<div align="center">
+
+<span class="fontSmall">All submitted content remains copyrighted to its original copyright holder. Images are for personal, non commercial use. </span><br/>
+
+<a href="dmca.php" class="fontPictureDesc">DMCA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="privacypolicy.html" class="fontPictureDesc">Privacy policy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?page=commercial" class="fontPictureDesc">Commercial use of images</a>
+
+
+
+
+</div>
+</div>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+      
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-529e19260cd6f3d1"></script>
+
+<div id="contentad144612"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "e10e57eb-2b2b-4eda-9777-359044231bbd",
+            d:  "d2FsbHBhcGVydm9ydGV4LmNvbQ==",
+            wid: "144612",
+            exitPop: true,
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad144612").appendChild(s);
+    })(document);
+</script>
+<div id="contentad351388"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "c959a0de-f719-4af7-ae4d-67f1ef17b47f",
+            d:  "d2FsbHBhcGVydm9ydGV4LmNvbQ==",
+            wid: "351388",
+            exitPopMobile: true,
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad351388").appendChild(s);
+    })(document);
+</script>
+
+</body>
+</html>
